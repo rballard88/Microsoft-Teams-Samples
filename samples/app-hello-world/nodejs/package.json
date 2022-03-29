@@ -1,5 +1,5 @@
 {
-  "name": "msteams-nodejs-hello-world",
+  "name": "mymy",
   "version": "1.0.0",
   "description": "Microsoft Teams Hello World sample app written in ES6 with Bot Framework v4 SDK",
   "scripts": {
@@ -38,5 +38,6 @@
     "gulp": "^4.0.2",
     "gulp-zip": "^5.0.1",
     "nodemon": "^2.0.3"
-  }
+  },
+  "main": "gulpfile.js"
 }

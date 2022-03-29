@@ -1,0 +1,21 @@
+{
+  "name": "roboproj",
+  "version": "1.0.1",
+  "description": "this is a test package",
+  "main": "don't know what an entry is ",
+  "scripts": {
+    "test": "test command here"
+  },
+  "repository": {
+    "type": "git",
+    "url": "robogit"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
